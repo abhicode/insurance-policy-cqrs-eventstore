@@ -2,6 +2,9 @@
 
 A full-stack Spring Boot (Java 21, Spring Boot 3.5.7) backend with a React frontend (CRA) that demonstrates a CQRS + Event Sourcing approach for managing insurance policies. The backend uses PostgreSQL for the read model and MongoDB for the event store. The repository includes a Docker Compose setup to run services locally.
 
+<img width="1249" height="691" alt="image" src="https://github.com/user-attachments/assets/8002ff7c-afae-4dba-8bf3-1ecae8e85e79" />
+
+
 ## Overview
 - Backend: Spring Boot (Java 21), Spring Data JPA, MongoDB event store
 - Backend Test Coverage: 94%
