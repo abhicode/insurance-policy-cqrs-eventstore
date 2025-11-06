@@ -1,0 +1,7 @@
+package com.abhishek.insurance_policy_cqrs.events;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface EventRepository extends MongoRepository<EventDocument, String> {
+
+}
